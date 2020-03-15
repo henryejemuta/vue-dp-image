@@ -1,0 +1,23 @@
+{
+  "name": "vue-dp-image",
+  "version": "1.0.0",
+  "description": "A Vue JS component for dynamic profile image which receives the image an image url as well as a first name and last name and a couple of other props to dynamically generate a DP with initials if image source is seemingly empty.",
+  "main": "DpImage.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryejemuta/vue-dp-image.git"
+  },
+  "keywords": [
+    "Vue",
+    "Reactive",
+    "DP",
+    "Image",
+    "Component"
+  ],
+  "author": "Henry Ejemuta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryejemuta/vue-dp-image/issues"
+  },
+  "homepage": "https://github.com/henryejemuta/vue-dp-image#readme"
+}
