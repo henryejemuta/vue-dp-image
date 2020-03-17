@@ -1,6 +1,6 @@
 {
   "name": "vue-dp-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue JS component for dynamic profile image which receives the image an image url as well as a first name and last name and a couple of other props to dynamically generate a DP with initials if image source is seemingly empty.",
   "main": "DpImage.vue",
   "repository": {
